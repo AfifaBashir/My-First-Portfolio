@@ -342,13 +342,13 @@
 
     // 3. Who is Afifa / About / Objective
     if (/\b(who\s*is|about|bio|background|objective|career|introduction|profile|summary)\b/i.test(query)) {
-      return "<strong>Afifa Syed Bashir</strong> is an undergraduate student pursuing a <strong>BE in Computer Science & Engineering (Artificial Intelligence & Machine Learning)</strong> at AJ Institute of Engineering & Technology, Mangalore (Class of 2027).<br><br>Her career objective is to apply programming and analytical problem-solving skills to real-world AI, Machine Learning, and IoT systems through adaptability, reliable work, and collaborative engineering.";
+      return "<strong>Afifa Syed Bashir</strong> is an undergraduate student pursuing a <strong>BE in Computer Science & Engineering (Artificial Intelligence & Machine Learning)</strong> at AJ Institute of Engineering & Technology, Mangalore (Class of 2028).<br><br>Her career objective is to apply programming and analytical problem-solving skills to real-world AI, Machine Learning, and IoT systems through adaptability, reliable work, and collaborative engineering.";
     }
 
     // 4. Education, CGPA, SGPA, PUC & SSLC Scores
     if (/\b(education|college|degree|cgpa|sgpa|marks|score|percentage|pu|puc|sslc|school|academics|grades|ajiet)\b/i.test(query)) {
       if (/\b(sgpa|semester|sem)\b/i.test(query)) {
-        return "Afifa's semester-wise SGPA record at AJIET (CGPA: <strong>8.0 / 10</strong>):<br>• Sem 1: <strong>8.15</strong><br>• Sem 2: <strong>8.05</strong><br>• Sem 3: <strong>7.80</strong><br>• Sem 4: <strong>7.90</strong><br>• Sem 5: <strong>8.00</strong><br>• Sem 6: <strong>8.10</strong>";
+        return "Afifa's semester-wise SGPA record at AJIET (Semesters 1–4 completed, CGPA: <strong>8.0 / 10</strong>):<br>• Sem 1: <strong>8.15</strong><br>• Sem 2: <strong>8.05</strong><br>• Sem 3: <strong>7.80</strong><br>• Sem 4: <strong>7.90</strong>";
       }
       if (/\b(pu|puc|12th)\b/i.test(query)) {
         return "Afifa completed her Pre-University Course (PUC) at <strong>Karkala Jnanasudha PU College</strong>, scoring a distinction of <strong>95.16%</strong>.";
@@ -356,7 +356,7 @@
       if (/\b(sslc|10th|high\s*school)\b/i.test(query)) {
         return "Afifa completed her SSLC at <strong>Karkala Jnanasudha English Medium High School</strong> with an outstanding score of <strong>95.68%</strong>.";
       }
-      return "Here is Afifa's verified academic record:<br><br>• <strong>BE in CSE (AI & ML)</strong> (2023–2027 Expected)<br>  AJ Institute of Engineering & Technology, Mangalore<br>  Overall CGPA: <strong>8.0 / 10</strong><br><br>• <strong>Pre-University Course (PUC)</strong><br>  Karkala Jnanasudha PU College &mdash; <strong>95.16%</strong><br><br>• <strong>SSLC (High School)</strong><br>  Karkala Jnanasudha English Medium High School &mdash; <strong>95.68%</strong>";
+      return "Here is Afifa's verified academic record:<br><br>• <strong>BE in CSE (AI & ML)</strong> (2024–2028 Expected, Completed through 4th Sem)<br>  AJ Institute of Engineering & Technology, Mangalore<br>  Overall CGPA: <strong>8.0 / 10</strong><br><br>• <strong>Pre-University Course (PUC)</strong><br>  Karkala Jnanasudha PU College &mdash; <strong>95.16%</strong><br><br>• <strong>SSLC (High School)</strong><br>  Karkala Jnanasudha English Medium High School &mdash; <strong>95.68%</strong>";
     }
 
     // 5. Specific Project Queries

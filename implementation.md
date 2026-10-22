@@ -47,7 +47,7 @@ The website is organized into a single-page structure:
 - **Mobile Hamburger Menu**: Accessible hamburger button with animated transition and keyboard support (`Escape` key closes drawer).
 
 ### 2. Hero Section (`#hero`)
-- **Status Pill**: *"Aspiring AI & ML Engineer • Class of 2027"* with animated pulse dot.
+- **Status Pill**: *"Aspiring AI & ML Engineer • Class of 2028"* with animated pulse dot.
 - **Headline**: High-impact greeting highlighting name and discipline.
 - **Institution**: AJ Institute of Engineering & Technology, Mangalore.
 - **Career Objective Summary**: Grounded in her objective to apply programming and analytical problem-solving to AI, ML, and IoT systems.
@@ -59,20 +59,18 @@ The website is organized into a single-page structure:
 
 ### 3. About Me (`#about`)
 - **Career Objective Card**: Complete career statement highlighting real-world application of Java, Python, and C, OOP concepts, basic data structures, and embedded prototyping.
-- **Key Information Sidebar**: Tabular view of specialization, expected year of graduation (2027), location, and direct email/phone links.
+- **Key Information Sidebar**: Tabular view of specialization, expected year of graduation (2028), location, and direct email/phone links.
 - **Languages Spoken**: Structured pills showcasing English (Fluent), Kannada (Regional), Hindi (Conversational), and Urdu (Native).
 
 ### 4. Education (`#education`)
 - **Interactive Academic Timeline**:
-  1. **Bachelor of Engineering in CSE (AI & ML)** (2023–2027 Expected) at AJ Institute of Engineering & Technology, Mangalore.
+  1. **Bachelor of Engineering in CSE (AI & ML)** (2024–2028 Expected, Completed through 4th Semester) at AJ Institute of Engineering & Technology, Mangalore.
      - Overall CGPA: `8.0 / 10`.
-     - Complete Semester-wise SGPA grid:
+     - Complete Semester-wise SGPA grid (Semesters 1 – 4):
        - Sem 1: `8.15`
        - Sem 2: `8.05`
        - Sem 3: `7.80`
        - Sem 4: `7.90`
-       - Sem 5: `8.00`
-       - Sem 6: `8.10`
   2. **Pre-University Course (PUC)** at Karkala Jnanasudha PU College, Karkala, Udupi, Karnataka.
      - Score: `95.16%` (Distinction).
   3. **Secondary School Leaving Certificate (SSLC)** at Karkala Jnanasudha English Medium High School, Karkala, Udupi, Karnataka.
