@@ -6,6 +6,7 @@ A modern, responsive, and accessible personal portfolio website for **Afifa Syed
 
 ## 🌟 Highlights & Features
 
+- **Interactive AI Portfolio Chatbot**: A responsive, floating virtual assistant (`Afifa's Assistant`) that answers questions about Afifa's education, skills, projects, and contact info in real-time, complete with quick suggestion chips and typing animation.
 - **Accurate Academic Record**: Showcases Engineering CGPA (8.0/10 with semester-wise SGPA breakdown), Pre-University Course score (95.16%), and SSLC score (95.68%).
 - **Pure Vanilla Stack**: Built using standard HTML5, modern CSS3 (Custom Properties), and vanilla JavaScript (ES6+). Zero build tools, dependencies, or complex setup required.
 - **Dark & Light Mode**: Seamless theme switching with system preference detection and `localStorage` persistence.

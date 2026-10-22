@@ -125,7 +125,14 @@ The website is organized into a single-page structure:
 - **Direct Mailto Message Assistant**:
   - A clean, transparent form that prepares an email with the visitor's subject and message in their local email client without sending private data to unknown third-party servers.
 
-### 10. Footer
+### 10. Interactive AI Portfolio Chatbot (`#chatbotWrapper`)
+- **Floating Launcher**: Located at the bottom right with animated open/close state and "AI" status badge.
+- **Natural Language Knowledge Engine**: Accurately recognizes and answers questions regarding Afifa's education, semester SGPAs, technical proficiencies, project details, certifications, and contact information.
+- **Quick Suggestion Chips**: One-click prompt pills allowing users to instantly query key topics without typing.
+- **Simulated Conversational Typing**: Gentle typing indicator delay (450ms) mimicking real-time response generation.
+- **Reset & Keyboard Controls**: Supports chat resetting, closing with the `Escape` key, and autofocus management.
+
+### 11. Footer
 - Full name, degree title, quick navigation links, dynamic copyright year (`2026`), and tech stack credit.
 
 ---
@@ -167,6 +174,10 @@ The website is organized into a single-page structure:
    - Graceful fallback for browsers where the modern Clipboard API is restricted.
 5. **Back-to-Top Button**:
    - Appears smoothly after scrolling down past 380px and smoothly returns to the hero section.
+6. **Interactive AI Portfolio Chatbot**:
+   - Provides an on-demand virtual guide grounded strictly in Afifa's resume.
+   - Automatically adjusts layout for mobile screens (bottom-sheet drawer) and desktop (docked card).
+   - Instant response logic requiring no external API keys or server runtime costs.
 
 ---
 
